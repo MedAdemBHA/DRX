@@ -70,6 +70,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to customize this README based on the specific details and features of your project. Ensure you update the URLs, installation steps, and other information accordingly.
